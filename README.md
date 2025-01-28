@@ -1,1 +1,3 @@
-# e-commerce-frontend-i06-e-commerce-frontend-application-52202-52412-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
